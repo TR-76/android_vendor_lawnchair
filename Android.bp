@@ -18,6 +18,8 @@ android_app_import {
         "Launcher3",
         "Launcher3QuickStep",
         "NexusLauncherRelease",
+        "Trebuchet",
+        "TrebuchetQuickStep",
     ],
 
     dex_preopt: {
